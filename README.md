@@ -10,3 +10,5 @@ Fever Scout the new kind of fever thermometer parents are using to continuously 
 3. Easily share information with your physician. Document symptoms, medication and causes through the app while tracking their temperature to monitor effectiveness of their anti-fever treatment
 4. Whether you're in another room or city be able to remotely monitor their temperature anywhere
 5. It's like a Sticker! Soft wearable patch was designed to be kid friendly. Great for kids scared of getting their temperature measured.
+
+#### more info at https://feverscout.com
